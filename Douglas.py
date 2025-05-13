@@ -14,7 +14,7 @@ def get_price_douglas(brand, product):
     if response.status_code != 200:
         result = {"name": None, "price": f"Could not load {url}. Code: {response.status_code}"}
         results.append(result)
-        with open(output_file, "a", encoding="utf-8") as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             f.write(f"{result['price']}\n")
         return results
 
@@ -27,7 +27,7 @@ def get_price_douglas(brand, product):
     if not products:
         result = {"name": None, "price": f"Could not find the searched information for '{brand}'"}
         results.append(result)
-        with open(output_file, "a", encoding="utf-8") as f:
+        with open(output_file, "w", encoding="utf-8") as f:
             f.write(f"{result['price']}\n")
         return results
 
@@ -48,7 +48,7 @@ def get_price_douglas(brand, product):
         results.append(result)
 
     
-    with open(output_file, "a", encoding="utf-8") as f:
+    with open(output_file, "w", encoding="utf-8") as f:
         for result in results:
             if result["name"]:
                 f.write(f"Found: {result['name']}, Price: {result['price']}\n")
