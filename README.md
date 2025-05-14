@@ -2,20 +2,20 @@
 **Produktu un tās cenas meklēšanas un salīdzināšanas automatizēšanas projekts**
 ___
 
-&nbsp;&nbsp;&nbsp; *Šis projekts ir paredzēts meklēšanas un salīdzināšanas procesa automatizēšanai, izmantojot Python, divos internetveikalos: Ksisters un Douglas. Programmatūra analizē ievadītus datus, un meklē internetveikalos ievadīto produktu un tās cenu. Pēc tam programmatūra salīdzina cenas, un izvada kurā veikalā ir lētāk un par cik eiro.*
+&nbsp;&nbsp;&nbsp; *Šis projekts ir paredzēts meklēšanas un salīdzināšanas procesa automatizēšanai, izmantojot Python, divos internetveikalos: Ksisters un Douglas.*
 
 &nbsp;&nbsp;&nbsp; *Ideja par šī projekta izstrādi radās tādēļ ka kosmētiskas produkcijas cenas ir diezgan augstas, un papildus tam daudzi veikali pārspīlē cenas personīgajam labumam. Šobrīd pircējiem pašiem jāstaigā pa veikaliem, lai atrastu veikalu ar vismazāko cenu, un mūsu programma ļauj automatizēt šo procesu.*
    
 ___
 
 
-**Projekta galvenais uzdevums:**
+**Projekta uzdevums:**
 
-  &nbsp;&nbsp;&nbsp; *Šī projekta galvenais uzdevums ir preču meklēšanas un cenu salīdzināšanas procesa automatizēšana divos kosmētikas internetvaikalos: Ksisters un Douglas.*
+  &nbsp;&nbsp;&nbsp; *Šī projekta uzdevums ir ievādītas preces meklēšanas un cenu salīdzināšanas procesa automatizēšana divos kosmētikas internetvaikalos: Ksisters un Douglas. Programmatūra analizē ievadītus datus, un meklē internetveikalos ievadīto produktu un tās cenu. Pēc tam programmatūra salīdzina cenas, un izvada kurā veikalā ir lētāk un par cik eiro.*
 
 ____
 
-**Bibliotēkas:**
+**Izmantotās bibliotēkas:**
 
    &nbsp;&nbsp;&nbsp; *Šīs programmas izstrādē tika izmantotas šādas bibliotēkas:*
    
@@ -25,3 +25,6 @@ ____
 
 ___
 
+**Izmantotās datu struktūras:**
+
+&nbsp;&nbsp;&nbsp; Programmatūrā tiek izmantotas divas struktūras: dictionary jeb vārdnīca  un list jeb saraksts. 
