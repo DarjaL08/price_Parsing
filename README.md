@@ -17,7 +17,7 @@ ____
 
 **Izmantotās bibliotēkas:**
 
-   &nbsp;&nbsp;&nbsp; *Šīs programmas izstrādē tika izmantotas šādas bibliotēkas:*
+   &nbsp;&nbsp;&nbsp; *Šīs programmas izstrādē tika izmantotas sekojošas bibliotēkas:*
    
 *-requests – tiek izmantota HTTP pieprasījumu veikšanai uz vietnēm kristers.lv  un douglas.lv, un to HTML lapu iegūšanai.*
 
@@ -27,9 +27,9 @@ ___
 
 **Izmantotās datu struktūras:**
 
-&nbsp;&nbsp;&nbsp; Programmatūrā tiek izmantotas divas struktūras:
+&nbsp;&nbsp;&nbsp; *Programmatūrā tiek izmantotas sekojošas struktūras:*
 
-1). dictionary jeb vārdnīca 
+1). list jeb saraksts 
 
 ![Piemērs no programmatūras:](photo_5847934961389258678_x.jpg)
 
@@ -37,6 +37,41 @@ ___
 
 ![Piemērs no programmatūras:](photo_5847934961389258680_x.jpg)
 
-2). list jeb saraksts
+2). dictionary jeb vārdnīca 
 
 ![Piemērs no programmatūras:](photo_5847934961389258683_x.jpg)
+
+___
+
+**Programmatūras izmantošanas metodes**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
