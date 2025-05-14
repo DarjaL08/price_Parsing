@@ -3,6 +3,7 @@
 Šī projekta galvenais uzdevums ir preču meklēšanas un cenu salīdzināšanas procesa automatizēšana divos kosmētikas internetvaikalos: Ksisters un Douglas.
 Ideja par šī projekta izstrādi radās tādēļ ka kosmētiskas produkcijas cenas ir diezgan augstas, un papildus tam daudzi veikali pārspīlē cenas personīgajam labumam. Šobrīd pircējiem pašiem jāstaigā pa veikaliem, lai atrastu veikalu ar vismazāko cenu, un mūsu programma ļauj automatizēt šo procesu.
 
+____
 
 **Bibliotēkas**
 
