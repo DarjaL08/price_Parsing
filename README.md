@@ -1,17 +1,23 @@
+**Produktu un tās cenas meklēšanas un salīdzināšanas automatizēšanas projekts**
+___
+
+   *Šis projekts ir paredzēts meklēšanas un salīdzināšanas procesa automatizēšanai, izmantojot Python, divos internetveikalos: Ksisters un Douglas. Programmatūra analizē ievadītus datus, un meklē internetveikalos ievadīto produktu un tās cenu. Pēc tam programmatūra salīdzina cenas, un izvada kurā veikalā ir lētāk un par cik eiro.*
+   *Ideja par šī projekta izstrādi radās tādēļ ka kosmētiskas produkcijas cenas ir diezgan augstas, un papildus tam daudzi veikali pārspīlē cenas personīgajam labumam. Šobrīd pircējiem pašiem jāstaigā pa veikaliem, lai atrastu veikalu ar vismazāko cenu, un mūsu programma ļauj automatizēt šo procesu.*
+   
+___
+
+
 **Projekta galvenais uzdevums**
 
-Šī projekta galvenais uzdevums ir preču meklēšanas un cenu salīdzināšanas procesa automatizēšana divos kosmētikas internetvaikalos: Ksisters un Douglas.
-Ideja par šī projekta izstrādi radās tādēļ ka kosmētiskas produkcijas cenas ir diezgan augstas, un papildus tam daudzi veikali pārspīlē cenas personīgajam labumam. Šobrīd pircējiem pašiem jāstaigā pa veikaliem, lai atrastu veikalu ar vismazāko cenu, un mūsu programma ļauj automatizēt šo procesu.
+   *Šī projekta galvenais uzdevums ir preču meklēšanas un cenu salīdzināšanas procesa automatizēšana divos kosmētikas internetvaikalos: Ksisters un Douglas.*
 
 ____
 
 **Bibliotēkas**
 
-Šīs programmas izstrādē tika izmantotas šādas bibliotēkas:
-
--requests – tiek izmantota HTTP pieprasījumu veikšanai uz vietnēm kristers.lv  un douglas.lv, un to HTML lapu iegūšanai.
-
--BeautifulSoup (BS) – tiek izmantota informācijas par produktiem iegūšanai no lapu HTML koda.
+   *Šīs programmas izstrādē tika izmantotas šādas bibliotēkas:*
+*-requests – tiek izmantota HTTP pieprasījumu veikšanai uz vietnēm kristers.lv  un douglas.lv, un to HTML lapu iegūšanai.*
+*-BeautifulSoup (BS) – tiek izmantota informācijas par produktiem iegūšanai no lapu HTML koda.*
 
 ___
 
