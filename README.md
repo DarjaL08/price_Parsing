@@ -1,4 +1,4 @@
-**Produktu un tās cenas meklēšanas un salīdzināšanas automatizēšanas projekts**
+**Produktu un tās cenas meklēšanas un salīdzināšanas automatizēšanas projekts:**
 ___
 
    *Šis projekts ir paredzēts meklēšanas un salīdzināšanas procesa automatizēšanai, izmantojot Python, divos internetveikalos: Ksisters un Douglas. Programmatūra analizē ievadītus datus, un meklē internetveikalos ievadīto produktu un tās cenu. Pēc tam programmatūra salīdzina cenas, un izvada kurā veikalā ir lētāk un par cik eiro.*
@@ -7,13 +7,13 @@ ___
 ___
 
 
-**Projekta galvenais uzdevums**
+**Projekta galvenais uzdevums:**
 
    *Šī projekta galvenais uzdevums ir preču meklēšanas un cenu salīdzināšanas procesa automatizēšana divos kosmētikas internetvaikalos: Ksisters un Douglas.*
 
 ____
 
-**Bibliotēkas**
+**Bibliotēkas:**
 
    *Šīs programmas izstrādē tika izmantotas šādas bibliotēkas:*
 *-requests – tiek izmantota HTTP pieprasījumu veikšanai uz vietnēm kristers.lv  un douglas.lv, un to HTML lapu iegūšanai.*
