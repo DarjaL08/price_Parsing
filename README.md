@@ -12,3 +12,6 @@ ____
 -requests – tiek izmantota HTTP pieprasījumu veikšanai uz vietnēm kristers.lv  un douglas.lv, un to HTML lapu iegūšanai.
 
 -BeautifulSoup (BS) – tiek izmantota informācijas par produktiem iegūšanai no lapu HTML koda.
+
+___
+
