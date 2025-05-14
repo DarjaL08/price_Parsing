@@ -1,4 +1,5 @@
-**Produktu un tās cenas meklēšanas un salīdzināšanas automatizēšanas projekts:**
+
+**Produktu un tās cenas meklēšanas un salīdzināšanas automatizēšanas projekts**
 ___
 
    *Šis projekts ir paredzēts meklēšanas un salīdzināšanas procesa automatizēšanai, izmantojot Python, divos internetveikalos: Ksisters un Douglas. Programmatūra analizē ievadītus datus, un meklē internetveikalos ievadīto produktu un tās cenu. Pēc tam programmatūra salīdzina cenas, un izvada kurā veikalā ir lētāk un par cik eiro.*
