@@ -5,6 +5,7 @@ Ideja par šī projekta izstrādi radās tādēļ ka kosmētiskas produkcijas ce
 
 
 **bibliotēkas**
+
 Šīs programmas izstrādē tika izmantotas šādas bibliotēkas:
 
 -requests – tiek izmantota HTTP pieprasījumu veikšanai uz vietnēm kristers.lv  un douglas.lv, un to HTML lapu iegūšanai.
