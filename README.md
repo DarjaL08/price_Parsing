@@ -28,3 +28,5 @@ ___
 **Izmantotās datu struktūras:**
 
 &nbsp;&nbsp;&nbsp; Programmatūrā tiek izmantotas divas struktūras: dictionary jeb vārdnīca  un list jeb saraksts. 
+
+![Piemērs no programmatūras:](photo_5847934961389258678_x.jpg)
