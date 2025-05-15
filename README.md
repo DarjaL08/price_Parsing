@@ -1,4 +1,4 @@
-
+ 
 **Produktu un tās cenas meklēšanas un salīdzināšanas automatizēšanas projekts**
 ___
 
@@ -44,7 +44,11 @@ ___
 ___
 
 **Programmatūras izmantošanas metodes**
+**Nepieciešams ievadīt zīmola nosaukumu, piemēram – beauty-of-joseon.
 
+Nepieciešams ievadīt produkta nosaukumu, piemēram – Ginseng Essence Water.
+
+Uzgaidiet, līdz programma atradīs preci divās vietnēs, salīdzinās cenu un ierakstīs rezultātu.**
 
 
 
