@@ -51,7 +51,7 @@ ___
 
 *3. Uzgaidiet, līdz programma atradīs preci divās vietnēs, salīdzinās cenu un ierakstīs rezultātu.*
 
-![Programmatūras darbības piemērs:]()
+![Programmatūras darbības piemērs:](Screenshot 2025-05-16 115404.png)
 
 
 
